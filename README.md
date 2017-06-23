@@ -1,2 +1,2 @@
 # HelloWorld
-Practice for Github
+Practice for GitHub
